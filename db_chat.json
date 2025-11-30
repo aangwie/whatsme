@@ -1,0 +1,26 @@
+[
+    {
+        "type": "out",
+        "sender": "6281234084994",
+        "message": "bagus",
+        "time": "15:28"
+    },
+    {
+        "type": "in",
+        "sender": "6281234084994",
+        "message": "iya, gimana",
+        "time": "15:28"
+    },
+    {
+        "type": "out",
+        "sender": "6281234084994",
+        "message": "Test lewat golang",
+        "time": "15:27"
+    },
+    {
+        "type": "in",
+        "sender": "6281234084994",
+        "message": "halo",
+        "time": "15:25"
+    }
+]
